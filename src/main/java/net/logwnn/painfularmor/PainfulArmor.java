@@ -12,6 +12,5 @@ public class PainfulArmor implements ModInitializer {
 	@Override
 	public void onInitialize() {
 
-		LOGGER.info("Hello, World! :)");
 	}
 }
