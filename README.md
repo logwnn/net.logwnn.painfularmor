@@ -1,5 +1,4 @@
 # net.logwnn.painfularmor
-## This is a PaperMC plugin for minecraft that makes armor painful to wear
-### Damages 1 heart per 1 second // 20 ticks
-
-Couln't figure out how to make a custom damage type (I don't know java very well)
+This is a PaperMC plugin for minecraft that makes armor painful to wear
+Damages 1 heart per 20 ticks, which is also 1 second
+I been trying for a while but I could not figure out how to make a custom damage type (Tried coding this with no java experience lol)
